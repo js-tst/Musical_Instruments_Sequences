@@ -1,0 +1,13 @@
+{
+  "block.misequences.kick_808_block": "kick 808 block",
+  "block.misequences.hihat_808_block": "hihat 808 block",
+  "block.misequences.snare_808_block": "snare 808 block",
+  "block.misequences.clap_808_block": "clap 808 block",
+
+  "creativetab.mis_tab": "Musical Instruments Sequences",
+
+  "sounds.misequences.808_Kick": "808 Kick",
+  "sounds.misequences.808_HiHat": "808 HiHat",
+  "sounds.misequences.808_Snare": "808 Snare",
+  "sounds.misequences.808_Clap": "808 Clap"
+}

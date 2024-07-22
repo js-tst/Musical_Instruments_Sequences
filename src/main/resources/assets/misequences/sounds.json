@@ -1,0 +1,29 @@
+{
+  "808_kick": {
+    "subtitles": "sounds.misequences.808_kick",
+    "sounds": [
+      "misequences:808_kick"
+    ]
+  },
+
+  "808_hihat": {
+    "subtitles": "sounds.misequences.808_hihat",
+    "sounds": [
+      "misequences:808_hihat"
+    ]
+  },
+
+  "808_snare": {
+    "subtitles": "sounds.misequences.808_snare",
+    "sounds": [
+      "misequences:808_snare"
+    ]
+  },
+
+  "808_clap": {
+    "subtitles": "sounds.misequences.808_clap",
+    "sounds": [
+      "misequences:808_clap"
+    ]
+  }
+}

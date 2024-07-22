@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "misequences:block/hihat_808_block"
+    }
+  }
+}
