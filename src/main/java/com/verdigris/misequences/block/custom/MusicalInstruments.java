@@ -26,7 +26,6 @@ public class MusicalInstruments extends Block {
 
     private int note;
 
-
     public MusicalInstruments(Properties pProperties, SoundEvent pSoundEvent) {
         super(pProperties);
         this.sound = pSoundEvent;

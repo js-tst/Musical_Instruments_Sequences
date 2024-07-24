@@ -17,6 +17,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> HIHAT_808 = registerSoundEvents("808_hihat");
     public static final RegistryObject<SoundEvent> SNARE_808 = registerSoundEvents("808_snare");
     public static final RegistryObject<SoundEvent> CLAP_808 = registerSoundEvents("808_clap");
+    public static final RegistryObject<SoundEvent> COWBELL_808 = registerSoundEvents("808_cowbell");
 
 
 

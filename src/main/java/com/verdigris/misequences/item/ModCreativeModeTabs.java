@@ -21,6 +21,9 @@ public class ModCreativeModeTabs {
                 pOutput.accept(ModBlocks.HIHAT_808_BLOCK.get());
                 pOutput.accept(ModBlocks.SNARE_808_BLOCK.get());
                 pOutput.accept(ModBlocks.CLAP_808_BLOCK.get());
+                pOutput.accept(ModBlocks.COWBELL_808_BLOCK.get());
+
+                pOutput.accept(ModBlocks.SYNTHESIZER_BLOCK.get());
             })
             .build());
 

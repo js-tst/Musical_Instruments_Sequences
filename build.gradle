@@ -120,6 +120,13 @@ repositories {
     // flatDir {
     //     dir 'libs'
     // }
+    mavenCentral()
+    maven {
+        url "https://maven.minecraftforge.net"
+    }
+    maven {
+        url "https://libraries.minecraft.net"
+    }
 }
 
 dependencies {
@@ -145,8 +152,12 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
+    implementation 'org.lwjgl:lwjgl:3.2.3'
     implementation 'org.lwjgl:lwjgl-openal:3.2.3'
-    implementation 'org.lwjgl:lwjgl-openal-natives:3.2.3'
+
+    runtimeOnly 'org.lwjgl:lwjgl-openal:3.2.3:natives-windows'
+    runtimeOnly 'org.lwjgl:lwjgl-openal:3.2.3:natives-linux'
+    runtimeOnly 'org.lwjgl:lwjgl-openal:3.2.3:natives-macos'
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

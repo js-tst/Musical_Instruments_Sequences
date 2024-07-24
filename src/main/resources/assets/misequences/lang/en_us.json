@@ -3,11 +3,14 @@
   "block.misequences.hihat_808_block": "hihat 808 block",
   "block.misequences.snare_808_block": "snare 808 block",
   "block.misequences.clap_808_block": "clap 808 block",
+  "block.misequences.cowbell_808_block": "cowbell 808 block",
+  "block.misequences.synthesizer_block": "synthesizer",
 
   "creativetab.mis_tab": "Musical Instruments Sequences",
 
-  "sounds.misequences.808_Kick": "808 Kick",
-  "sounds.misequences.808_HiHat": "808 HiHat",
-  "sounds.misequences.808_Snare": "808 Snare",
-  "sounds.misequences.808_Clap": "808 Clap"
+  "sounds.misequences.808_kick": "808 Kick",
+  "sounds.misequences.808_hiHat": "808 HiHat",
+  "sounds.misequences.808_snare": "808 Snare",
+  "sounds.misequences.808_clap": "808 Clap",
+  "sounds.misequences.808_cowbell": "808 Cowbell"
 }

@@ -3,11 +3,14 @@
   "block.misequences.hihat_808_block": "808踩镲方块",
   "block.misequences.snare_808_block": "808军鼓方块",
   "block.misequences.clap_808_block": "808掌击方块",
+  "block.misequences.cowbell_808_block": "808牛铃方块",
+  "block.misequences.synthesizer_block": "合成器",
 
   "creativetab.mis_tab": "乐器序列",
 
-  "sounds.misequences.808_Kick": "808 底鼓",
-  "sounds.misequences.808_HiHat": "808 踩镲",
-  "sounds.misequences.808_Snare": "808 军鼓",
-  "sounds.misequences.808_Clap": "808 掌击"
+  "sounds.misequences.808_kick": "808 底鼓",
+  "sounds.misequences.808_hiHat": "808 踩镲",
+  "sounds.misequences.808_snare": "808 军鼓",
+  "sounds.misequences.808_clap": "808 掌击",
+  "sounds.misequences.808_cowbell": "808 牛铃"
 }

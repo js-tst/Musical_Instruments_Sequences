@@ -25,5 +25,12 @@
     "sounds": [
       "misequences:808_clap"
     ]
+  },
+
+  "808_cowbell": {
+    "subtitles": "sounds.misequences.cowbell",
+    "sounds": [
+      "misequences:808_cowbell"
+    ]
   }
 }
